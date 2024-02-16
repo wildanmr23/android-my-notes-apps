@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyHomeListing</string>
+    <string name="my_notes_apps">My Notes Apps</string>
+    <string name="edit_notes">Edit Notes.</string>
+    <string name="enter_the_tittle">Enter the tittle</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="add_new_note">Add New Note.</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
